@@ -1,1 +1,1 @@
-Test
+In this folder you will find the notebooks in .ipynb (to be run with the jupyter notebook) and in pdf format. These notebooks are mainly tutorials and guides for the major pipeline I developed in the project.
