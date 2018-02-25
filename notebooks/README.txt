@@ -4,7 +4,9 @@ In this folder you will find the notebooks in .ipynb (to be run with the jupyter
 
 *** TO DOWNLOAD FILES: *** 
 1. Go to the file you want to download.
-2. Click it to view the contents within the GitHub website.
+2. Click on it to view its contents within the GitHub website.
 3. In the top right, right click the Raw button.
-4. Select the option to save as... and save the file where you want. =)
+4. Select the option to save as... and save the file where you want to save. =)
+
+The html files look funny (source code) on the website, but once you download them they look nice and clean to read.
 
