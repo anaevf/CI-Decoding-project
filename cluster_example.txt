@@ -1,0 +1,18 @@
+ #!/bin/bash
+#MSUB -l nodes=1:ppn=5
+#MSUB -l walltime=69:00:00
+#MSUB -l pmem=2500mb
+#MSUB -m bea
+#MSUB -M ana-elena.vedoveli-francisco@student.uni-tuebingen.de
+
+
+# Activate python env
+ echo 'activating env...'
+ source ./meu_env/bin/activate 
+
+
+# Starting calculation
+ echo 'starting calculation!'
+ python ./CI/Python/Scripts/CI_Directions_mp2.py 'RB180116_20180116_112722v03CI' 4
+ echo 'finished calculation!'
+
